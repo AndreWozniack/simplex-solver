@@ -1,0 +1,14 @@
+/Users/andrewozniack/Desktop/TDE02-Simplex/bin/Debug/net10.0/Simplex
+/Users/andrewozniack/Desktop/TDE02-Simplex/bin/Debug/net10.0/Simplex.deps.json
+/Users/andrewozniack/Desktop/TDE02-Simplex/bin/Debug/net10.0/Simplex.runtimeconfig.json
+/Users/andrewozniack/Desktop/TDE02-Simplex/bin/Debug/net10.0/Simplex.dll
+/Users/andrewozniack/Desktop/TDE02-Simplex/bin/Debug/net10.0/Simplex.pdb
+/Users/andrewozniack/Desktop/TDE02-Simplex/obj/Debug/net10.0/TDE02-Simplex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewozniack/Desktop/TDE02-Simplex/obj/Debug/net10.0/TDE02-Simplex.AssemblyInfoInputs.cache
+/Users/andrewozniack/Desktop/TDE02-Simplex/obj/Debug/net10.0/TDE02-Simplex.AssemblyInfo.cs
+/Users/andrewozniack/Desktop/TDE02-Simplex/obj/Debug/net10.0/TDE02-Simplex.csproj.CoreCompileInputs.cache
+/Users/andrewozniack/Desktop/TDE02-Simplex/obj/Debug/net10.0/Simplex.dll
+/Users/andrewozniack/Desktop/TDE02-Simplex/obj/Debug/net10.0/refint/Simplex.dll
+/Users/andrewozniack/Desktop/TDE02-Simplex/obj/Debug/net10.0/Simplex.pdb
+/Users/andrewozniack/Desktop/TDE02-Simplex/obj/Debug/net10.0/TDE02-Simplex.genruntimeconfig.cache
+/Users/andrewozniack/Desktop/TDE02-Simplex/obj/Debug/net10.0/ref/Simplex.dll
